@@ -1,0 +1,7 @@
+{
+  "id" : "MyJavaService",
+  "type" : "JavaService",
+  "packageNames" : [ "com.auto_rpslzvopfo.myjavaservice" ],
+  "serviceClassNames" : [ "com.auto_rpslzvopfo.myjavaservice.MyJavaService" ],
+  "title" : "MyJavaService"
+}
